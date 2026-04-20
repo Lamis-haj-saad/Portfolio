@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import Journey from './components/Journey';
 import Skills from './components/Skills.jsx';
 import FeaturedProjects from './components/FeaturedProjects';
-import MoreProjects from './components/MoreProjects';
+import MoreProjects from './components/Moreprojects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
