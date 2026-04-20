@@ -1,5 +1,5 @@
 import React from 'react';
-import { featuredProjectsData } from '../data/portfolioData';
+import { featuredProjectsData } from '../data/Portfoliodata';
 
 const FeaturedProjectCard = ({ project, index, total }) => {
   return (

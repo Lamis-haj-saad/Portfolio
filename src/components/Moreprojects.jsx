@@ -1,5 +1,5 @@
 import React from 'react';
-import { moreProjectsData } from '../data/portfolioData';
+import { moreProjectsData } from '../data/Portfoliodata';
 
 const ProjectCard = ({ project, index, total }) => {
   return (
