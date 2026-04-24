@@ -113,7 +113,7 @@ export const moreProjectsData = [
     desc: "Implemented distributed data systems with secure access controls, enabling real-time updates and automated banking transactions.",
     tags: ["Advanced SQL", "functions", "cursors", "relational-object databases", "stored procedures", "triggers"],
     github: "",
-    demo: "",
+    demo: "https://heathered-archer-dd0.notion.site/Mini-Projet-BD-a3ad8a4944f58203b276818f3cd0642a",
   },
   {
     title: "Connect Four Game",
