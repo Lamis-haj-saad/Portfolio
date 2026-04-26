@@ -14,7 +14,7 @@ const Navigation = () => {
 
   return (
     <nav className={`nav ${scrolled ? 'scrolled' : ''}`}>
-      <div className="nav-logo">Mrs. Lamis</div>
+      <div className="nav-logo">Ms. Lamis</div>
       <div className="nav-links">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
