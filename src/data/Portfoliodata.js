@@ -1,13 +1,13 @@
 export const skillsData = [
   "Python", "JavaScript", "TypeScript", "ReactJS",
-  "React Native", "Node.js", "Express.js", "PHP",
-  "C#", ".NET", "Java", "Spring Boot",
-  "Scikit-learn", "Pandas", "NumPy", "OpenCV",
+  "React Native", "Node.js", "Express.js", "PHP", "C/C++",
+  "C#", ".NET", "XAF Blazor", "Java", "Spring Boot", "Symfony", "Android", "Web 3.0 (Fundamentals)",
+  "Scikit-learn", "Pandas", "NumPy", "OpenCV", "Data Modeling", "Data Warehousing", "Power BI",
   "Machine Learning", "Computer Vision", "NLP",
   "Prompt Engineering", "Elasticsearch",
-  "PostgreSQL", "MySQL", "Oracle",
-  "AWS", "Docker", "Git", "Linux",
-  "Agile/Scrum", "REST APIs",
+  "PostgreSQL", "MySQL", "PL/SQL", "Oracle",
+  "AWS (Fundamentals)", "Git", "Linux", "DevOps (Fundamentals)",
+  "Agile/Scrum", "UML", "REST APIs",
 ];
 
 export const featuredProjectsData = [
