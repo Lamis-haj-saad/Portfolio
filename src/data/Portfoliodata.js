@@ -12,6 +12,19 @@ export const skillsData = [
 
 export const featuredProjectsData = [
   {
+    title: "FIFA Player Dashboard project",
+    desc: "Self-taught Power BI project: Built a multi-page FIFA player dashboard from scratch using custom DAX measures.",
+    details: "Built a ReactJS interface and Node.js server with NLP modules, speech transcription, and prompt engineering. The layered architecture separates intelligent model execution from direct data access via Elasticsearch.",
+    tags: ["Power BI", "DAX"],
+    images: ["/Images/FIFA_page-0001.jpg", "/Images/FIFA_page-0002.jpg"],
+    comments: [
+      "Explored and mastered Power BI fundamentals by creating custom DAX measures to calculate position-specific performance scores, then ranked and visualized the top 100 players across multiple dimensions.",
+      "Designed and developed interactive analytics dashboards with dynamic filtering, conditional formatting, and drill-through capabilities to identify undervalued talent and analyze club squad valuations.",
+    ],
+    github: "",
+    demo: "",
+  },
+  {
     title: "AI Assistant – DECADE",
     desc: "Designed and integrated an AI-based assistant into a catering services platform to personalise and improve the user experience.",
     details: "Built a ReactJS interface and Node.js server with NLP modules, speech transcription, and prompt engineering. The layered architecture separates intelligent model execution from direct data access via Elasticsearch.",
